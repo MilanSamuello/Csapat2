@@ -4,7 +4,16 @@ background-color:  rgb(37, 83, 37);
 font-family:  Verdana;
 color:  #FFF;
 }
-
-
-
-
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+   height: 100px;
+  float: center;
+}
+section{
+    
+}
